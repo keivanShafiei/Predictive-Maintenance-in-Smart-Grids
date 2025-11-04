@@ -80,19 +80,6 @@ Running the script will:
     -   `cost_sensitivity_analysis.png`
     -   `precision_recall_curves.png`
 
-## Citation
-
-If you use this framework or the findings from our paper in your research, please cite our work. (A complete BibTeX entry will be added upon publication).
-
-```bibtex
-@article{shafiei2025,
-  title={A Benchmarking Framework for Extreme Class Imbalance in Smart Grid Predictive Maintenance: Preliminary Evidence from Rare Failure Event Detection},
-  author={Shafiei, Amirkiavan and Sharifi, Shima},
-  journal={Journal Name (To Be Determined)},
-  year={2025},
-  publisher={IEEE}
-}
-```
 
 ## License
 
